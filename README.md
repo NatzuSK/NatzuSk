@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" width="100"/>
 </div>
